@@ -3,7 +3,7 @@
 # Submission 1
 
 - [Relationship Diagram](/Diagram-Relationship.jpeg)
-- [Design Architecture](/Diagram-Relationship.jpeg)
+- [Design Architecture](/Diagram-Event%20Driven%20Architecture.jpeg)
 - Menggunakan Teknologi, Apache kafka, Postgresql
 - Pada proses order dan transaksi saya menggunakan kafka broker sebagai message 
 
